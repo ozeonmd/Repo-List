@@ -14,3 +14,5 @@ Crude list of repo to use as part of project or as examples
 * [Text angular](https://github.com/textAngular/textAngular)
 * [Jitsi](https://github.com/jitsi/jitsi)
 * [Django-Queued-Storage](https://github.com/jazzband/django-queued-storage)
+* [slate](https://github.com/lord/slate)
+* [Https-Portal](https://github.com/SteveLTN/https-portal)
